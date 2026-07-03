@@ -1,25 +1,39 @@
-# Landing / Frontend Work Index
+# Frontend Work Index
 
-Public routing page for selected landing, frontend and product-interface work by **Samandar Mansurkhodjaev**.
+## Русский
 
-This repository is intentionally lightweight. It routes visitors to stronger, documented examples of frontend, product presentation and visual interface work.
+Публичная навигационная страница по frontend, landing и product-interface работам **Самандара Мансурходжаева**.
 
-## Selected Work
+Этот репозиторий специально лёгкий: он не пытается быть отдельным большим проектом, а аккуратно направляет к лучшим визуальным доказательствам frontend-уровня: live demos, public repos и безопасным карточкам приватных продуктов.
 
-- [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — cinematic Three.js/WebGL landing with GitHub Pages demo.
-- [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — interactive developer portfolio.
-- [CoupleOS card](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) — mobile-first consumer product case with private UX and product mechanics.
-- [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) — code-safe case studies for private/commercial projects.
+## Что открыть
 
-## Why This Exists
+| Проект | Что показывает |
+|---|---|
+| [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | Three.js/WebGL, motion, visual storytelling, live demo |
+| [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) | Интерактивное developer portfolio и персональная упаковка |
+| [CoupleOS / Softly](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) | Mobile-first consumer product, emotional UX, privacy и founder mindset |
+| [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) | Карточки и case studies приватных/коммерческих проектов |
 
-Not every strong frontend/product project should be exposed as raw source code. This index keeps public navigation clean while pointing to the best available proof: live demos, public repositories and safe case studies.
+## Почему это отдельный индекс
 
-## Русская версия
+Не каждый сильный frontend/product проект должен быть открыт как raw source code. Здесь собраны безопасные и быстрые маршруты к тому, что можно показать публично: визуальные демо, карточки, архитектура и продукты.
 
-Это лёгкая навигационная страница по frontend/product-interface работам:
+## English
 
-- [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) — Three.js/WebGL landing с live demo.
-- [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) — интерактивное developer portfolio.
-- [CoupleOS card](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) — mobile-first consumer product кейс.
-- [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) — безопасные case studies приватных проектов.
+Public routing page for frontend, landing and product-interface work by **Samandar Mansurkhodjaev**.
+
+This repository is intentionally lightweight. It does not try to be a large standalone project; it points visitors to the strongest visual proof of frontend ability: live demos, public repositories and safe cards for private products.
+
+## What To Open
+
+| Project | What it shows |
+|---|---|
+| [3d-landing](https://github.com/SamandarMansurkhodjaev2713/3d-landing) | Three.js/WebGL, motion, visual storytelling and live demo |
+| [CV-Samandar](https://github.com/SamandarMansurkhodjaev2713/CV-Samandar) | Interactive developer portfolio and personal positioning |
+| [CoupleOS / Softly](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase/blob/main/cards/coupleos.md) | Mobile-first consumer product, emotional UX, privacy and founder mindset |
+| [Private Projects Showcase](https://github.com/SamandarMansurkhodjaev2713/private-projects-showcase) | Project cards and case studies for private/commercial work |
+
+## Why This Index Exists
+
+Not every strong frontend/product project should be exposed as raw source code. This repository keeps public navigation clean while pointing to safe proof: visual demos, cards, architecture and products.
